@@ -8,6 +8,10 @@ h1, h2 {
   text-align: center;
 }
 
+.home-page-list {
+  font-size: 20px;
+}
+
 img {
   height: 400px;
   width: auto;
